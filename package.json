@@ -1,0 +1,22 @@
+{
+  "name": "docs-classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "client-oauth2": "^4.3.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "form-data": "^3.0.0",
+    "request": "^2.88.2",
+    "simple-oauth2": "^4.1.0"
+  }
+}

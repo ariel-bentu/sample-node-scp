@@ -1,0 +1,6 @@
+---
+applications:
+- name: demo-doc-classifier-i022021
+  services:
+    - myDocuClass
+  memory: 256M
